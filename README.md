@@ -1,5 +1,5 @@
 # farm-products-project
-simple backend project, practicing the basic concepts of the Backend with nodejs.  
+practicing the basic concepts of the Backend.  
 
 - creating server with http module
 - routing using url module
